@@ -1,0 +1,11 @@
+/* GLOBAL */
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+/* PLAYER */
+.dashboards {
+  width: 500px;
+  margin: auto;
+}

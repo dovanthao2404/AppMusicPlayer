@@ -1,0 +1,16 @@
+/* GLOBAL */
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+/* PLAYER */
+.dashboards {
+}
+header {
+  text-align: center;
+  margin: 20px 0;
+}
+header h4 {
+  color: rgb(202, 71, 93);
+}
